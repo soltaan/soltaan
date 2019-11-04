@@ -1,3 +1,6 @@
 #board_title{
-  color:red;
-  }
+	color:red;
+}
+#content:{
+	display: none;
+}
